@@ -37,5 +37,5 @@ def first_second_and_third_students
   puts STUDENT_NAMES[2]
 end 
 
-first_second_and_third_students
+
 
