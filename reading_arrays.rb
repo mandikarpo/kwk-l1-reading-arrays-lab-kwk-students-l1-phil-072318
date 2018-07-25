@@ -30,7 +30,7 @@ end
 
 
 def first_second_and_third_students
-  puts STUDENT_NAMES[0,1,2]
+  puts STUDENT_NAMES[1,2,3]
 end 
 
 first_second_and_third_students
