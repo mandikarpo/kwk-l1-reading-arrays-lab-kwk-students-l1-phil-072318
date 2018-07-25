@@ -30,7 +30,7 @@ end
 
 
 def first_second_and_third_students
-  puts STUDENT_NAMES[1,2,3]
+  puts STUDENT_NAMES["Adele", "Beyoncé", "Cardi B"]
 end 
 
 first_second_and_third_students
