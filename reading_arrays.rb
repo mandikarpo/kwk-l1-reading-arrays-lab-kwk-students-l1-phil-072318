@@ -30,9 +30,11 @@ end
 
 
 def first_second_and_third_students
-  puts STUDENT_NAMES["Adele", "Beyoncé", "Cardi B"]
+  0 = "Adele"
+  1 = "Beyoncé"
+  2 = "Cardi B"
+  puts STUDENT_NAMES[0,1,2]
 end 
 
 first_second_and_third_students
-first_second_and_third_students
-first_second_and_third_students
+
